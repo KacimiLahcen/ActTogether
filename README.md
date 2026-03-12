@@ -1,138 +1,141 @@
-🌍 ActTogether – Plateforme d’Impact pour le Bénévolat
-🏆 Contexte
+# 🌍 ActTogether – Plateforme d’Impact pour le Bénévolat
 
-ActTogether est une plateforme web conçue lors d’un hackathon, où notre équipe a remporté la 2ᵉ place 🥈.
+## 🏆 Contexte
 
-Le projet vise à encourager les jeunes à participer à des activités de bénévolat en transformant l’engagement social en une expérience interactive, motivante et gamifiée.
+**ActTogether** est une plateforme web conçue lors d’un hackathon où notre équipe a remporté la **2ᵉ place 🥈**.
 
-L’objectif principal est de connecter les volontaires avec des événements solidaires tout en récompensant leur impact dans la communauté.
+Le projet vise à **encourager les jeunes à participer à des activités de bénévolat** en transformant l’engagement social en une expérience **interactive, motivante et gamifiée**.
 
-✨ Fonctionnalités principales
-📊 Tableau de bord
+L’objectif principal est de **connecter les volontaires avec des événements solidaires** tout en **récompensant leur impact dans la communauté**.
 
-Vue globale de l’activité du volontaire
+---
 
-Classement national des bénévoles
+# ✨ Fonctionnalités principales
 
-Statistiques personnelles :
+## 📊 Tableau de bord
+Le tableau de bord offre une vue globale de l’activité du volontaire :
 
-Nombre d’événements participés
+- Classement national des bénévoles
+- Statistiques personnelles :
+  - Nombre d’événements participés
+  - Points gagnés
+  - Position dans le classement
 
-Points gagnés
+---
 
-Position dans le classement
+## 📅 Exploration d’événements
 
-📅 Exploration d’événements
+Les utilisateurs peuvent découvrir différentes **opportunités de bénévolat**.
 
-Les utilisateurs peuvent découvrir des opportunités de bénévolat :
+### Fonctionnalités
+- Filtrage par **ville**
+- Filtrage par **type d’activité**
+- **Inscription rapide** aux événements
 
-Filtrage par ville
+### Types d’événements
+- 📚 Éducation
+- 🌱 Environnement
+- 🤝 Aide sociale
 
-Filtrage par type d’activité
+---
 
-Inscription rapide aux événements
+## 🏆 Système de points et classement
 
-Types d’événements
+Chaque participation à un événement rapporte des **points XP**.
 
-Éducation
+Ces points permettent de :
 
-Environnement
+- 📈 Monter dans le **classement national**
+- 🎁 Débloquer des **récompenses**
+- ⭐ Suivre sa **progression personnelle**
 
-Aide sociale
+---
 
-🏆 Système de points et classement
+## 🛍️ Place de marché (Marketplace)
 
-Chaque participation rapporte des points XP.
+Les volontaires peuvent **échanger leurs points** contre différentes récompenses.
 
-Ces points permettent :
+### Exemples de récompenses
 
-de monter dans le classement national
+- 🎬 Ticket cinéma  
+- ☕ Carte cadeau café  
+- 🎧 Écouteurs sans fil  
+- 🚆 Bon de transport  
+- 🎵 Abonnement musique  
 
-de débloquer des récompenses
+---
 
-🛍️ Place de marché (Marketplace)
+## 🎁 Boîte Mystère Hebdomadaire
 
-Les points gagnés peuvent être échangés contre des récompenses :
+Une fonctionnalité **gamifiée** qui permet aux volontaires de :
 
-Exemples :
+- 🎲 Ouvrir une **boîte mystère**
+- 🎯 Recevoir une **mission spéciale**
+- ⚡ Activer un **bonus de points (XP x2)**
 
-🎬 Ticket cinéma
+---
 
-☕ Carte cadeau café
+## 👤 Profil utilisateur
 
-🎧 Écouteurs sans fil
+Chaque utilisateur possède un **profil personnalisé** contenant :
 
-🚆 Bon de transport
+- Nom et ville
+- Photo d’avatar
+- Rang dans la ville
+- Points totaux
+- Historique des activités
 
-🎵 Abonnement musique
+Les informations peuvent être **modifiées via une interface modale**.
 
-🎁 Boîte Mystère Hebdomadaire
+---
 
-Une fonctionnalité gamifiée qui permet aux volontaires de :
+# 🛠️ Technologies utilisées
 
-ouvrir une boîte mystère
+## Frontend
+- **HTML5**
+- **TailwindCSS**
+- **JavaScript (Vanilla)**
 
-recevoir une mission spéciale
+## Librairies
+- **Lucide Icons** – Icônes modernes
+- **Canvas Confetti** – Animations de célébration
+- **Google Fonts (Plus Jakarta Sans)** – Typographie
 
-activer des bonus de points (XP x2)
+---
 
-👤 Profil utilisateur
+# 🎮 Approche Gamification
 
-Chaque utilisateur possède un profil avec :
+ActTogether intègre plusieurs mécaniques pour **motiver l’engagement des jeunes** :
 
-Nom et ville
+- 🏅 Classements
+- ⭐ Points XP
+- 🎁 Récompenses
+- 🎲 Boîtes mystères
+- 📈 Progression de rang
 
-Photo d’avatar
+Cette approche rend le **bénévolat plus engageant et ludique**.
 
-Rang dans la ville
+---
 
-Points totaux
-
-Historique des activités
-
-Possibilité de modifier ses informations via une interface modale.
-
-🛠️ Technologies utilisées
-Frontend
-
-HTML5
-
-TailwindCSS
-
-JavaScript (Vanilla)
-
-Librairies
-
-Lucide Icons – icônes modernes
-
-Canvas Confetti – animations de célébration
-
-Google Fonts (Plus Jakarta Sans) – typographie
-
-🎮 Approche Gamification
-
-VolunHero intègre plusieurs mécaniques pour motiver les jeunes :
-
-🏅 Classements
-
-⭐ Points XP
-
-🎁 Récompenses
-
-🎲 Boîtes mystères
-
-📈 Progression de rang
-
-Cette approche rend le bénévolat plus engageant et ludique.
-
-🌍 Impact social
+# 🌍 Impact social
 
 Le projet vise à :
 
-Encourager la participation citoyenne
+- Encourager la **participation citoyenne**
+- Faciliter l’accès aux **opportunités de bénévolat**
+- Valoriser **l’engagement des jeunes**
+- Créer une **communauté active de volontaires**
 
-Faciliter l’accès aux opportunités de bénévolat
+---
 
-Valoriser l’engagement des jeunes
+# 👥 Équipe
 
-Créer une communauté active de volontaires
+Projet développé lors d’un **hackathon** par une équipe passionnée souhaitant utiliser la technologie pour **générer un impact social positif**.
+
+🥈 **2ᵉ place remportée au hackathon**
+
+---
+
+# 📌 Vision
+
+Transformer le bénévolat en une **expérience interactive et valorisante**, où chaque action contribue à **un impact réel dans la société**.
